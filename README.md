@@ -1,2 +1,2 @@
 # sql-challenge
-Querying and Data Engineering using pgAdmin4
+Querying and Data Engineering using PostgresSQL and SQL Alchemy in Jupyter Notebook
