@@ -68,4 +68,5 @@ ON employees.emp_no=sales_development.emp_no;
 --i.e., how many employees share each last name.
 SELECT last_name,COUNT(last_name)
 FROM employees
-GROUP BY last_name;
+GROUP BY last_name
+ORDER BY(count);
